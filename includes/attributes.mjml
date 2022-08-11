@@ -1,0 +1,7 @@
+  <!-- This effects various tags/elements in the newsletter -->
+  <mj-attributes>
+    <!-- effects all tags -->
+    <mj-all font-family="Arial" />
+    <!-- effects all text tags -->
+    <mj-text padding="0" />
+  </mj-attributes>

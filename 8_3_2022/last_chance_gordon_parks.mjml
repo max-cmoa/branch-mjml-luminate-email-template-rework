@@ -1,0 +1,283 @@
+<mjml html lang="en">
+  <mj-head>
+    <!-- Defines the document's title that browsers show in the title bar or a page's tab -->
+    <mj-title>Last Chance to see Gordon Parks in Pittsburgh, 1944/1946!</mj-title>
+    <!-- This preview tag allows you to set the preview that will be displayed in the inbox of the recipient -->
+    <mj-preview>Last Chance to see Gordon Parks in Pittsburgh, 1944/1946!</mj-preview>
+     <mj-include path="./../includes/header.mjml"/>
+    <mj-include path="./../includes/attributes.mjml"/>
+    <mj-include path="./../includes/css.mjml"/>
+  </mj-head>
+
+  <!-- a width of 600 pixels is the average width desktop clients use to show your email messages -->
+  <mj-body width="600px">
+
+  <!-- Carnegie Museum of Art Text Header -->
+<mj-section background-color="white">
+  <mj-column>
+    <mj-text  align="center"
+          font-style="arial"
+              font-size="24px"
+              color="black">
+      Carnegie Museum of Art
+    </mj-text>
+    
+  </mj-column>
+</mj-section>
+
+
+ <!-- Hero Image width should be same as mj-body aka 600px in this template -->
+  <mj-hero 
+          mode="fluid-height"
+          background-width="600px"
+          background-height="600px"
+          background-url="http://www.artandnaturalhistory.org/news/2022/CMOA/CMOAfromhome/080322/cmoa-header.gif"
+          background-color="#2a3448" 
+   >
+  </mj-hero>
+
+  <mj-section>
+    <mj-column>
+       <!-- css-class is how to use a class from css.mjml include -->
+       <mj-text css-class="text" align="left" font-size="16px">
+         There are only two weeks left of Inside Out, our free outdoor summer event series! Meet us in the museum’s Sculpture Court on Thursday evenings and Saturday afternoons and end the summer in style.
+       </mj-text>
+         <mj-spacer height="20px" />
+       <mj-text css-class="text" align="left">
+         On <a href="https://cmoa.org/event/inside-out-august-4/">Thursday, August 4,</a> experience the launch of Bounce House Collective, a new Pittsburgh-based arts organization, featuring musical performances by Clara Kent, Pharaoh Lum, Tribe Eternal, and Mani Bahia & The Mob, as well as live art-making by Black Girl Absolute, Natiq Jalil, and Zeal Eva.
+       </mj-text> 
+         <mj-spacer height="20px" />
+       <mj-text css-class="text" align="left"> 
+         Join us on <a href="https://cmoa.org/event/inside-out-aug-6/">Saturday, August 6</a> for a special teen-artist edition of Inside Out! Throughout the afternoon, enjoy performances by youth performing arts organizations Alumni Theater Company, The Lighthouse Project, and Dreams of Hope. From 1 to 2:30 p.m., participate in art-making with artist Rafael Domenech, a featured artist in the 58th Carnegie International.
+       </mj-text>
+       <mj-spacer height="20px" />
+         <mj-button css-class="theButton" align="left" padding="0">
+           <a  href="https://cmoa.org/inside-out/?utm_source=cmoa&utm_medium=email&utm_campaign=080322-newsletter&utm_content=intro">LEARN MORE</a>
+         </mj-button>
+     </mj-column>
+   </mj-section>
+
+   <mj-hero 
+          mode="fluid-height"
+          background-width="600px"
+          background-height="469px"
+          background-url="http://www.artandnaturalhistory.org/news/2022/CMOA/CMOAfromhome/080322/feature-one.jpg"
+          background-color="#2a3448" 
+   >
+  </mj-hero>
+
+  <mj-section>
+    <mj-column>
+       <mj-text css-class="text" align="left">
+         <b>Closing Soon: Gordon Parks in Pittsburgh, 1944/1946</b>
+       </mj-text>
+         <mj-spacer height="20px"/>
+       <mj-text css-class="text" align="left">
+         <b>Final Day is Sunday, August 7, 2022</b>
+       </mj-text> 
+         <mj-spacer height="20px" />
+       <mj-text css-class="text" align="left"> 
+         “How can it be that America’s greatest photographer produced a striking, original and insightful body of work highlighting an important aspect of the most dramatic event in the nation’s history and those pictures are almost unknown?” —Forbes
+       </mj-text>
+       <mj-spacer height="20px"/>
+       <mj-text css-class="text" align="left"> 
+         Gordon Parks in Pittsburgh, 1944/1946 features more than 50 never-before-seen photographs taken by legendary photojournalist Gordon Parks while on assignment in Pittsburgh. Parks’s photographs taken at the Penola, Inc. grease plant endure as a record of humanity and everyday life in the mid-20th century, telling countless stories that have been overlooked.
+       </mj-text>
+       <mj-spacer height="20px" />
+         <mj-button css-class="theButton" align="left" padding="0">
+           <a href="https://cmoa.org/inside-out/?utm_source=cmoa&utm_medium=email&utm_campaign=080322-newsletter&utm_content=intro">LEARN MORE</a>
+         </mj-button>
+     </mj-column>
+   </mj-section>
+
+    <mj-hero 
+          mode="fluid-height"
+          background-width="600px"
+          background-height="469px"
+          background-url="http://www.artandnaturalhistory.org/news/2022/CMOA/CMOAfromhome/080322/feature-two.jpg"
+          background-color="#2a3448" 
+   >
+  </mj-hero>
+
+  <mj-section>
+    <mj-column>
+       <mj-text align="left">
+         <b>Date with a Docent</b>
+       </mj-text>
+       <mj-spacer height="12px" />
+       <mj-text css-class="text" align="left"><b>Thursday, 6, 6:30, and 7 p.m.</b></mj-text>
+       <mj-text css-class="text" align="left"><b>Saturday, 10:30 and 11 a.m.</b></mj-text>
+       <mj-text css-class="text" align="left"><b>Free with admission, registration required</b></mj-text>
+       <mj-spacer height="20px" />
+       <mj-text css-class="text" align="left">
+         Pittsburgh’s Strip District of the 1940s with one of our esteemed docents before Gordon Parks in Pittsburgh, 1944/1946 closes!
+       </mj-text> 
+         <mj-spacer height="20px" />
+       <mj-text css-class="text" align="left"> 
+         A Date with a Docent is a one-on-one or small-group personalized mini-tour that offers visitors an in-depth look at a specific area of the museum’s collection, exhibitions, or architecture.
+       </mj-text>
+       <mj-spacer height="20px"/>
+       <mj-text css-class="text" align="left"> 
+        This Thursday and Saturday, join us for a Date with a Docent during the final days of Gordon Parks in Pittsburgh, 1944/1946 and explore Gordon Parks’s visual record of the Penola, Inc. grease plant, its workers, and their activities manufacturing lubricants to support US military efforts during World War II.
+       </mj-text>
+       <mj-spacer height="20px" />
+         <mj-button css-class="theButton" align="left" padding="0">
+           <a class="abutton" href="https://cmoa.org/inside-out/?utm_source=cmoa&utm_medium=email&utm_campaign=080322-newsletter&utm_content=intro">MAKE A DATE</a>
+         </mj-button>
+     </mj-column>
+   </mj-section>
+
+   <mj-hero 
+          mode="fluid-height"
+          background-width="600px"
+          background-height="469px"
+          background-url="http://www.artandnaturalhistory.org/news/2022/CMOA/CMOAfromhome/080322/feature-three.jpg"
+          background-color="#2a3448" 
+   >
+  </mj-hero>
+
+   <mj-section>
+    <mj-column>
+       <mj-text css-class="text" align="left">
+         <b>Is it morning for you yet?, 58th Carnegie International — Professional Accreditation</b>
+       </mj-text> 
+       <mj-spacer height="20px"/>
+       <mj-text css-class="text" align="left"> 
+        Is it morning for you yet?, 58th Carnegie International opens on Saturday, September 24, 2022! If you are an art industry professional or educator who would like to request advance access to the 58th Carnegie International on Friday, September 23, 2022, please click below to submit your credentials.
+       </mj-text>
+       <mj-spacer height="20px" />
+         <mj-button css-class="theButton" align="left" padding="0">
+           <a class="abutton" href="https://cmoa.org/inside-out/?utm_source=cmoa&utm_medium=email&utm_campaign=080322-newsletter&utm_content=intro">PROFESSIONAL APPLICATION</a>
+         </mj-button>
+     </mj-column>
+   </mj-section>
+
+   <mj-section>
+    <mj-column>
+      <mj-divider padding="0px" border-width="1px" border-style="solid" border-color="lightgrey" />
+    </mj-column>
+   </mj-section>
+
+    <mj-section  background-color="white">
+    <mj-column>
+        <mj-text padding-left="26px" align="left" color="lightgrey" font-size="12px">
+         Is it morning for you yet?, 58th Carnegie International is presented by
+       </mj-text> 
+       <mj-image align="left" width="300px" src="http://www.artandnaturalhistory.org/news/2022/cmoa/international/sponsors/BoA_edit.png" alt="Bank of America Logo"/>
+       <mj-spacer height="20px"/>
+
+       <mj-divider padding="0px" border-width="1px" border-style="solid" border-color="lightgrey" />
+
+       <mj-text padding-left="26px" align="left" color="lightgrey" font-size="12px">
+         Premier Partners:
+       </mj-text> 
+       <mj-spacer height="20px"/>
+       <mj-image container-background-color="white" width="150px" align="left" src="http://www.artandnaturalhistory.org/news/2020/CMOA/graphics/sponsors/NOVA-chemicals.png" alt="Nova Chemical Logo"/>
+       <mj-spacer height="20px"/>
+       <mj-image container-background-color="white" width="150px" align="left" src="http://www.artandnaturalhistory.org/news/2020/CMOA/MuseumFromHome/111820/highmark-ahn-black.png" alt="Highmark allegheny Health Network Logo"/>       
+       <mj-spacer height="20px"/>
+       <mj-image container-background-color="white" width="150px" align="left" src="http://www.artandnaturalhistory.org/news/2020/CMOA/MuseumFromHome/111820/FORTPITT-LOGO_BW.png" alt="Fortpitt Logo"/>
+       <mj-spacer height="20px"/>
+    </mj-column>
+   </mj-section>
+
+   <mj-section css-class="visitCallToAction">
+    <mj-column>
+       <mj-text align="center">
+         Visit cmoa.org to <a href="https://cmoa.org/visit/?utm_source=cmoa&utm_medium=email&utm_campaign=080322-newsletter&utm_content=notice-timed-ticket">reserve your timed tickets now</a> and learn more about our <a href="https://cmoa.org/visit/health-safety/?utm_source=cmoa&utm_medium=email&utm_campaign=080322-newsletter&utm_content=notice-health-safety">health and safety protocols.</a>
+       </mj-text>
+      <mj-spacer height="20px"/>
+    </mj-column>
+   </mj-section>
+
+   <mj-section css-class="section">
+    <mj-column>
+      <mj-text align="center">
+        <b class="connectWithUs">Connect with us and enjoy art from home!</b>
+      </mj-text>
+    </mj-column>
+   </mj-section>
+
+   <mj-section css-class="section">
+    <mj-group>
+      <mj-column>
+         <mj-image css-class="lightImage" width="34px" height="24px" src="http://www.artandnaturalhistory.org/news/2020/CMOA/graphics/social/Facebook.png" href="https://www.facebook.com/CarnegieMuseumofArt"/>
+         <mj-image css-class="darkImage" width="34px" height="24px" src="http://www.artandnaturalhistory.org/news/2020/CMOA/graphics/social/Facebook-dark.png" href="https://www.facebook.com/CarnegieMuseumofArt"/>
+      </mj-column>
+
+      <mj-column>
+         <mj-image css-class="lightImage" width="34px" height="24px" src="http://www.artandnaturalhistory.org/news/2020/CMOA/graphics/social/Twitter.png" href="https://twitter.com/#!/cmoa"/>
+         <mj-image css-class="darkImage" width="34px" height="24px" src="http://www.artandnaturalhistory.org/news/2020/CMOA/graphics/social/Twitter-dark.png" href="https://twitter.com/#!/cmoa"/>
+      </mj-column>
+
+      <mj-column>
+         <mj-image css-class="lightImage" width="34px" height="24px" src="http://www.artandnaturalhistory.org/news/2020/CMOA/graphics/social/Instagram.png" href="http://instagram.com/carnegiemuseumofart"/>
+         <mj-image css-class="darkImage" width="34px" height="24px" src="http://www.artandnaturalhistory.org/news/2020/CMOA/graphics/social/Instagram-dark.png" href="http://instagram.com/carnegiemuseumofart"/>
+      </mj-column>
+
+      <mj-column>
+         <mj-image css-class="lightImage" width="34px" height="24px" src="http://www.artandnaturalhistory.org/news/2020/CMOA/graphics/social/Youtube.png" href="https://www.youtube.com/user/cmoapgh"/>
+         <mj-image css-class="darkImage" width="34px" height="24px" src="http://www.artandnaturalhistory.org/news/2020/CMOA/graphics/social/Youtube-dark.png" href="https://www.youtube.com/user/cmoapgh"/>
+      </mj-column>
+
+    </mj-group>
+  </mj-section>
+    
+ 
+  <mj-section>
+    <mj-column>
+      <mj-divider padding="0px" border-width="1px" border-style="solid" border-color="lightgrey" />
+    </mj-column>
+  </mj-section>
+
+  <mj-section>
+    <mj-column>
+      <mj-text align="left" css-class="text">
+        <b>Accessibility at the Carnegie Museums of Pittsburgh</b> 
+        The museum welcomes all visitors. We work to assist visitors with disabilities in obtaining reasonable and appropriate accommodations, and in supporting equal access to our websites, services, programs, and activities. 
+        Please note that requests for accommodations at our museums should be made at least two weeks prior to your visit. 
+        For specific questions about wheelchairs, strollers, or other programmatic or equipment needs, or specific questions or concerns regarding accessibility for visitors with disabilities at the museums, talk with Visitor Services staff at the museum admissions desk, 
+        <a href="mailto:visitorservices@carnegiemuseums.org?&amp;subject=Accessibility%20question/request">email visitor services</a>, or call 412.622.3131.
+      </mj-text>
+    </mj-column>
+
+    <mj-column>
+      <mj-image css-class="lightImage" width="140px" src="http://www.artandnaturalhistory.org/news/2020/CMOA/Events/03/RAD-light.png" href="https://www.radworkshere.org/"/>
+      <mj-image css-class="darkImage" width="140px" src="http://www.artandnaturalhistory.org/news/2020/CMOA/Events/03/RAD-dark.png" href="https://www.radworkshere.org/"/>
+    </mj-column>
+
+  </mj-section>
+
+  <mj-section>
+    <mj-column>
+      <mj-divider padding="0px" border-width="1px" border-style="solid" border-color="lightgrey" />
+    </mj-column>
+  </mj-section>
+
+  <mj-section>
+    <mj-column>
+
+      <mj-text align="left" css-class="text">
+        <a href="http://members.carnegiemuseums.org/site/CO">Unsubscribe or change your preferences</a>&nbsp; | &nbsp;<a href="http://www.artandnaturalhistory.org/news/2022/CMOA/cmoafromhome/020222/CMOAfromHome_020222.html">View in browser</a>
+      </mj-text> 
+
+      <mj-text align="left" color="lightgrey">
+        <br/>
+        <br/>
+        <br/>
+        Inside Out illustrations by Zhongkai Li. Gordon Parks, The cooper’s room where the large drums and containers are reconditioned. Here a workman lifts a drum from a boiling lye solution which has cleaned from it grease and dust particles, 1944, Prints and Photographs Division, Library of Congress, Washington D.C., Courtesy the Gordon Parks Foundation. Date with a Docent at Carnegie Museum of Art, 2021, photo: Bryan Conley. Exterior of Carnegie Museum of Art, photo: Tom Little.
+      </mj-text>
+
+    </mj-column>
+  </mj-section>
+
+  <mj-section>
+    <mj-column>
+      <mj-divider padding="0px" border-width="1px" border-style="solid" border-color="lightgrey" />
+    </mj-column>
+  </mj-section>
+
+  <mj-include path="./../includes/footer.mjml"/>
+
+  </mj-body>
+</mjml>

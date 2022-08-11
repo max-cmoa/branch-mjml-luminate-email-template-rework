@@ -1,0 +1,9 @@
+<!-- Used for including font file, although email clients like outlook and gmail can choose to ignore this -->
+<mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway" />
+
+<mj-raw>
+  <!-- going with a dark theme first approach, this is to let email clients know the supported dark mode and light mode -->
+  <!-- to go with a light theme first appraoch, swap the order of dark and light in the meta tags below -->
+  <meta name="color-scheme" content="dark light">
+  <meta name="supported-color-schemes" content="dark light">     
+</mj-raw>

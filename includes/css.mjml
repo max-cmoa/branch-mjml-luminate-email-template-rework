@@ -1,0 +1,169 @@
+<!-- normal way to use css -->
+<mj-style>
+
+
+ /* to be replaced with a custom font */
+  @font-face {
+	  font-family: 'customFontHere';
+	  src: url('path/to/artsandnaturalhistory/server/with/webfont');
+    font-weight:normal;
+    font-style:normal;
+  }
+
+  /* For debugging dark and light mode, I suggest swapping dark and light in the media queries below */
+
+  @media (prefers-color-scheme: dark) {
+
+    body{
+      background-color: black !important;
+    }
+
+    .section{
+
+      background-color: black;
+
+    }
+
+    .text div{
+      background-color: black !important;
+      color: white !important;
+      font-family: 'customFontHere', Arial, sans-serif;
+      font-size: 16px !important;
+    }
+
+    a {
+      color: white !important;
+    }
+
+    .theButton{
+      font-family: 'customFontHere', Arial, sans-serif;
+    }
+
+    .theButton p{
+      background-color: black !important;
+      border: 1px solid white !important;
+    }
+
+    .theButton a{
+      color: white !important;
+    }
+
+    .visitCallToAction{
+      background-color: #413C22;
+      font-size: 14px;
+      border-top: 1px solid lightgrey;
+      border-bottom: 1px solid lightgrey;
+    }
+
+    .visitCallToAction a:link{ 
+      color: #0000EE !important; 
+    }
+
+    .visitCallToAction a:visited{ 
+      color: #551A8B !important; 
+    }
+
+    .visitCallToAction div{
+      color: white !important;
+    }
+
+    .connectWithUs{
+      
+       color: white !important;
+
+    }
+
+    /* this darkImage and lightImage hack is to get images to show depending on light or dark mode */
+
+    .darkImage{
+      display: block;
+    }
+
+    .lightImage{
+      display: none;
+    }
+
+    .tagline{
+      font-size: 8px;
+    }
+
+  } /* end of prefers-color-scheme: dark */
+
+  @media (prefers-color-scheme: light) {
+
+    body{
+      background-color: white !important;
+    }
+
+     .section{
+
+      background-color: white;
+
+    }
+
+    .text div{
+      background-color: white !important;
+      color: black !important;
+      font-family: 'customFontHere', Arial, sans-serif;
+      font-size: 16px !important;
+    }
+
+     a {
+      color: black !important;
+    }
+
+    .theButton{
+      font-family: 'customFontHere', Arial, sans-serif;
+    }
+
+    .theButton p{
+      background-color: black !important;
+      border: 1px solid white !important;
+    }
+
+    .theButton a{
+      color: white !important;
+    }
+
+    .visitCallToAction{
+      background-color: #F5ECCC;
+      font-size: 14px;
+      border-top: 1px solid lightgrey;
+      border-bottom: 1px solid lightgrey;
+    }
+
+    .visitCallToAction a:link{ 
+      color: #0000EE !important; 
+    }
+
+    .visitCallToAction a:visited{ 
+      color: #551A8B !important; 
+    }
+
+    .visitCallToAction div{
+      color: black !important;
+    }
+
+    .connectWithUs{
+      
+      color: black !important;
+
+    }
+
+    /* this darkImage and lightImage hack is to get images to show depending on light or dark mode */
+
+     .darkImage{
+      display: none;
+    }
+
+    .lightImage{
+      display: block;
+    }
+
+    .tagline{
+      font-size: 8px;
+    }
+
+  } /* end of prefers-color-scheme: light */
+
+</mj-style>

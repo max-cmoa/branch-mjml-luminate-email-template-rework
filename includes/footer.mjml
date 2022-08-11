@@ -1,0 +1,25 @@
+ <mj-section>
+
+    <mj-column>
+      <mj-image align="left" css-class="lightImage" width="100px" src="http://www.artandnaturalhistory.org/news/2022/cmoa/logos/logo-black.png" href="https://cmoa.org/"/>
+      <mj-image align="left" css-class="darkImage" width="100px" src="http://www.artandnaturalhistory.org/news/2022/cmoa/logos/logo-white.png" href="https://cmoa.org/"/>    
+    </mj-column>
+
+    <mj-column>
+      <mj-text align="left" css-class="text">
+        <a href="http://cmoa.org/">cmoa.org</a>
+        <br>
+        <br>
+        4400 Forbes Avenue
+        <br>
+				Pittsburgh, PA 15213
+        <br>
+				412.622.3131
+        <br>
+        <br>
+        <i class="tagline">One of the four Carnegie&nbsp;Museums&nbsp;of&nbsp;Pittsburgh</i>
+      </mj-text>
+    </mj-column>
+    
+
+ </mj-section>

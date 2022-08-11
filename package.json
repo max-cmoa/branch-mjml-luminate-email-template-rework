@@ -1,0 +1,26 @@
+{
+  "name": "mjml-luminate-email-template-rework",
+  "version": "1.0.0",
+  "description": "tool used to compile mjml to html",
+  "main": "index.mjml",
+  "scripts": {
+    "compile": "mjml $npm_config_input -o $npm_config_output && open-cli $npm_config_output"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmoa-webmaster/mjml-luminate-email-template-rework.git"
+  },
+  "keywords": [
+    "mjml"
+  ],
+  "author": "Max Edelstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmoa-webmaster/mjml-luminate-email-template-rework/issues"
+  },
+  "homepage": "https://github.com/cmoa-webmaster/mjml-luminate-email-template-rework#readme",
+  "dependencies": {
+    "mjml": "^4.13.0",
+    "open-cli": "^7.0.1"
+  }
+}
